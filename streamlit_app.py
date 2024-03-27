@@ -12,7 +12,6 @@ st.latex(r'''a+ar^1+ar^2+ar^3''')
 
 st.checkbox('yes')
 st.button('Click')
-st.radio
 st.radio('Pick your agender',['Male','Fmale'])
 st.selectbox('choose a planer',['Jupiter','Mars','neptune'])
 st.select_slider('Pick a mark',['Bad','Good','Excellent'])
